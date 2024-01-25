@@ -1,0 +1,11 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# ignore ny_taxi_postgres_data
+ny_taxi_postgres_data/
+
+# ignore .inpynb_checkpoints
+.inpynb_checkpoints/
