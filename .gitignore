@@ -8,4 +8,4 @@ temp/
 ny_taxi_postgres_data/
 
 # ignore .inpynb_checkpoints
-.inpynb_checkpoints/
+.ipynb_checkpoints/
